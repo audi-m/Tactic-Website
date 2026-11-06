@@ -1,0 +1,155 @@
+{
+  "categories": [
+    {"slug": "marketing-automation", "name": "Enterprise & Work Management"},
+    {"slug": "email", "name": "Email & Communication"},
+    {"slug": "crm-sales", "name": "Finance & ERP"}
+  ],
+  "items": [
+    {
+      "slug": "softxon",
+      "name": "MS Project Server",
+      "category": "marketing-automation",
+      "icon": "CDN2:6899e98e5633ca7448fd70c2_688fc0ee4b947555d40bd137_integration-icon-8%20%286%29.png",
+      "summary": "Microsoft Project is software for planning, scheduling, and tracking tasks, resources, and timelines on complex projects.",
+      "intro": "Sync tasks, timelines, and milestones between Tactic and Microsoft Project automatically, then follow resource allocation and progress in Power BI dashboards.",
+      "how_heading": "How Tactic synchronizes timelines with Microsoft Project",
+      "how_text": "Manage schedules, dependencies, and milestones in Microsoft Project while Tactic keeps those timelines aligned with portfolio strategy.",
+      "steps": [
+        "Connect your Tactic workspace to Microsoft Project from system settings.",
+        "Import project templates, timelines, and task hierarchies into Tactic.",
+        "Link individual tasks to specific projects and assign dependencies.",
+        "Use dashboards in Tactic to track real-time progress synced from MS Project."
+      ]
+    },
+    {
+      "slug": "saasez",
+      "name": "Office 365",
+      "category": "email",
+      "icon": "CDN2:6899eae0b8943d97ddb660da_688fc0ee4b947555d40bd137_integration-icon-8%20%2810%29.png",
+      "summary": "Office 365 is Microsoft's cloud-based productivity suite, including Word, Excel, PowerPoint, Outlook, and more.",
+      "intro": "Elevate your productivity by integrating Tactic with Office 365.",
+      "how_heading": "How Tactic works with Office 365",
+      "how_text": "",
+      "steps": [
+        "Link your Tactic user accounts with Office 365 credentials.",
+        "Sync shared calendars to reflect project milestones and events.",
+        "Enable document sharing and editing via OneDrive or SharePoint.",
+        "Allow real-time comments on shared files directly from Tactic.",
+        "Track activity and collaboration metrics in Tactic reports."
+      ]
+    },
+    {
+      "slug": "zoho",
+      "name": "SAP",
+      "category": "crm-sales",
+      "icon": "CDN2:6899eb13f8862023ec9e3f28_688fc0ee4b947555d40bd137_integration-icon-8%20%289%29.png",
+      "summary": "SAP is an enterprise resource planning (ERP) suite used to run finance, procurement, and operations.",
+      "intro": "Connect Tactic to SAP through the Tactic Integration Hub to keep project and financial data in step. Contact us to scope the integration for your SAP landscape.",
+      "how_heading": "",
+      "how_text": "",
+      "steps": []
+    },
+    {
+      "slug": "taskbes",
+      "name": "MS Excel",
+      "category": "marketing-automation",
+      "icon": "CDN2:6899eb27dd829a2fb5a05bb2_688fc0ee4b947555d40bd137_integration-icon-8.png",
+      "summary": "Microsoft Excel is spreadsheet software used for data analysis, calculations, charting, and reporting.",
+      "intro": "Power your data analysis by integrating Tactic with Microsoft Excel.",
+      "how_heading": "How Tactic works with MS Excel",
+      "how_text": "",
+      "steps": [
+        "Export datasets from Tactic directly into Excel workbooks.",
+        "Use Excel formulas or pivot tables to analyze resource allocation or costs.",
+        "Create custom charts based on project KPIs.",
+        "Set up scheduled data exports for recurring reports.",
+        "Link Excel files back into Tactic for centralized access."
+      ]
+    },
+    {
+      "slug": "hrbes",
+      "name": "Zoom",
+      "category": "email",
+      "icon": "CDN2:6899eb35abc6eb45f90e5481_688fc0ee4b947555d40bd137_integration-icon-8%20%2811%29.png",
+      "summary": "Zoom is a cloud-based video conferencing platform for virtual meetings, webinars, and team collaboration.",
+      "intro": "Streamline your communications by linking Tactic with Zoom. Schedule meetings, invite stakeholders, and launch video calls from project dashboards, with attendance, duration, and recordings flowing back into Tactic.",
+      "how_heading": "How Tactic works with Zoom",
+      "how_text": "",
+      "steps": [
+        "Connect your Zoom account to Tactic via the integration settings.",
+        "Schedule project meetings directly from task or milestone views.",
+        "Automatically generate Zoom links and send invites to team members.",
+        "Record meeting attendance, duration, and summary in Tactic.",
+        "Access past meeting logs and recordings from within the project timeline."
+      ]
+    },
+    {
+      "slug": "bezify",
+      "name": "Oracle",
+      "category": "crm-sales",
+      "icon": "CDN2:6899eb4745215a4a12deb060_688fc0ee4b947555d40bd137_integration-icon-8%20%282%29.png",
+      "summary": "Oracle is an enterprise software suite for database management, ERP, and financial systems.",
+      "intro": "Unlock enterprise-grade data integrity by linking Tactic to Oracle, keeping transactional records, client data, and project metrics in sync across systems.",
+      "how_heading": "How Tactic works with Oracle",
+      "how_text": "",
+      "steps": [
+        "Set up API integration between Tactic and Oracle Cloud/ERP.",
+        "Sync chart of accounts and budget codes.",
+        "Automate invoice generation and expense tracking from Tactic.",
+        "Use Oracle reporting tools to generate financial dashboards.",
+        "Monitor audit trails for all synced transactions."
+      ]
+    },
+    {
+      "slug": "markeotic",
+      "name": "Power BI",
+      "category": "marketing-automation",
+      "icon": "CDN2:6899eb5ebf62eebfc80322af_688fc0ee4b947555d40bd137_integration-icon-8%20%281%29.png",
+      "summary": "Power BI is Microsoft's business analytics tool for visualizing data and sharing insights through interactive dashboards.",
+      "intro": "Gain actionable insights by integrating Tactic with Power BI. Project, resource, and financial data feeds interactive dashboards that surface trends and support data-driven decisions.",
+      "how_heading": "How Tactic works with Power BI",
+      "how_text": "",
+      "steps": [
+        "Connect Tactic to Power BI using direct query or dataset export.",
+        "Build visualizations for timeline, resource usage, or performance KPIs.",
+        "Enable auto-refresh to reflect updated metrics.",
+        "Share dashboards with project stakeholders.",
+        "Embed reports back into Tactic for centralized access."
+      ]
+    },
+    {
+      "slug": "sinza",
+      "name": "MS Teams",
+      "category": "email",
+      "icon": "CDN2:6899eb72a79b9ca4e7c8ea39_688fc0ee4b947555d40bd137_integration-icon-8%20%2812%29.png",
+      "summary": "Microsoft Teams combines chat, video meetings, file sharing, and team communication in one place.",
+      "intro": "Collaborate seamlessly with Tactic by integrating Microsoft Teams.",
+      "how_heading": "How Tactic works with MS Teams",
+      "how_text": "",
+      "steps": [
+        "Integrate your Tactic environment with your Teams workspace.",
+        "Auto-create dedicated Teams channels for new projects.",
+        "Post automatic updates for tasks, milestones, or changes.",
+        "Enable file sharing and inline commenting through Teams.",
+        "Track collaboration metrics and chat logs from within Tactic."
+      ]
+    },
+    {
+      "slug": "xoros",
+      "name": "ServiceNow",
+      "category": "marketing-automation",
+      "icon": "CDN2:6899ebbf759d2e32460e8f32_688fc0ee4b947555d40bd137_integration-icon-8%20%284%29.png",
+      "summary": "ServiceNow is a cloud-based IT service management platform for handling incidents, requests, and workflows.",
+      "intro": "Enhance your project support by integrating Tactic with ServiceNow.",
+      "how_heading": "How Tactic works with ServiceNow",
+      "how_text": "",
+      "steps": [
+        "Establish the connection between Tactic and your ServiceNow instance.",
+        "Configure rules to automatically create incidents based on project events.",
+        "Assign and track incident resolution within project dashboards.",
+        "Sync status updates and resolution notes between both systems.",
+        "Generate support performance reports tied to project progress."
+      ]
+    }
+  ]
+}

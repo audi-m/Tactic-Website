@@ -1,0 +1,108 @@
+[
+  {
+    "slug": "start-generating-leads-that-turn-into-sales-quickly",
+    "label": "Waterfall and Agile",
+    "title": "Plan, assign, and track work with precision in different methodologies",
+    "intro": "Run each project the way it should be run: a structured Waterfall plan or a flexible Agile board, side by side in one platform.",
+    "icon": "CDN1:688fc0ee4b947555d40bd007_time-scheduling.png",
+    "home_image": "CDN2:68b4126292da7613ec3c13a9_Screenshot%202025-08-31%20121353.png",
+    "secondary_image": "CDN2:68b4126292da7613ec3c13a9_Screenshot%202025-08-31%20121353.png",
+    "workflow_image": "CDN2:68b4150ebf93d3c5b023966a_Screenshot%202025-08-31%20122521.png",
+    "bullets": [
+      "Use Gantt, Kanban, or MS Project views for flexibility",
+      "Set dependencies, track timelines, and identify critical paths easily"
+    ],
+    "workflow_heading": "A workflow that works for your team",
+    "workflow_text": "Whether a project runs Waterfall or Agile, every milestone and update is tracked and documented in one place.",
+    "points": [
+      ["We default to transparency", "Project plans, sprint boards, and progress reports are visible to the whole team."],
+      ["Easy collaboration", "Team members share priorities, next steps, and feedback without leaving the project."]
+    ],
+    "helpful": [
+      "Keep your teams aligned: coordinate tasks, milestones, and sprints across all projects.",
+      "Gain full visibility: track progress, spot risks, and prevent delays before they happen.",
+      "Standardize execution: use templates and workflows for consistent delivery, whether Waterfall or Agile.",
+      "Ensure accountability: embed governance and best practices in every project phase."
+    ]
+  },
+  {
+    "slug": "collect-new-leads-with-minimal-effort",
+    "label": "Strategy & KPI Execution",
+    "title": "Turn goals into measurable outcomes",
+    "intro": "Connect goals, KPIs, and initiatives across every project and portfolio so progress stays tracked, measurable, and visible.",
+    "icon": "CDN1:688fc0ee4b947555d40bd02c_fast-and-easy-process.png",
+    "home_image": "CDN2:68949ada04aa5fefbc18d21f_KPI-progress.PNG",
+    "secondary_image": "CDN2:68b402492f8bab37353bf054_Screenshot%202025-08-31%20110314.png",
+    "workflow_image": "CDN2:68b400ef24fcecad1e8fdd29_ImageToStl.com_merged-document%20%281%29.jpg",
+    "bullets": [
+      "Link objectives, KPIs, and initiatives across portfolios, programs, and projects",
+      "Monitor actual vs. planned performance through real-time, drill-down visual dashboards"
+    ],
+    "workflow_heading": "Turn strategy into results",
+    "workflow_text": "Goals, KPIs, and initiatives are linked across all projects and portfolios, so everything stays tracked, measurable, and visible.",
+    "points": [
+      ["Clear insights", "Monitor actual vs. planned performance with real-time dashboards."],
+      ["Aligned teams", "Keep everyone focused on what matters most to achieve strategic objectives."]
+    ],
+    "helpful": [
+      "Set clear strategic objectives and define measurable KPIs for all initiatives.",
+      "Link goals, KPIs, and initiatives across portfolios, programs, and projects for full alignment.",
+      "Use real-time dashboards to monitor performance, compare actual vs. planned results, and spot gaps early.",
+      "Empower teams to make data-driven decisions and take corrective actions to stay on track."
+    ]
+  },
+  {
+    "slug": "maximizing-lead-conversion",
+    "label": "Project Lifecycle Control",
+    "title": "Manage projects from initiation to closure",
+    "intro": "Cover every stage of a project, from kickoff to wrap-up, with automated workflows, phase gates, and transparent tracking.",
+    "icon": "CDN1:688fc0ee4b947555d40bd008_sales-management.png",
+    "home_image": "CDN2:68b41ae6bbe4ca6887d91ed7_Screenshot%202025-08-31%20124740.png",
+    "secondary_image": "CDN2:68b41ae6bbe4ca6887d91ed7_Screenshot%202025-08-31%20124740.png",
+    "workflow_image": "CDN2:68b40b7424bb5571f79f5d2a_Screenshot%202025-08-31%20114420.png",
+    "bullets": [
+      "Automate phase transitions with governance phase gates and approval workflows.",
+      "Define custom phase gates tailored to project types or strategic needs"
+    ],
+    "workflow_heading": "End-to-end lifecycle visibility",
+    "workflow_text": "Phase transitions run automatically, with governance gates and approval workflows built in at each stage.",
+    "points": [
+      ["Easy governance", "Manage approvals, phase gates, and compliance in one place."],
+      ["Smart control", "Track progress, milestones, and resources with clarity."],
+      ["Seamless collaboration", "Align teams and stakeholders across every stage."]
+    ],
+    "helpful": [
+      "Collaborate with cross-functional teams, including project managers, stakeholders, and quality assurance, to streamline project execution.",
+      "Monitor, analyze, and control project performance, identifying risks and bottlenecks to ensure timely delivery.",
+      "Define and maintain standardized project lifecycle templates to enable consistent and scalable execution across portfolios.",
+      "Implement governance best practices throughout phase gates and approval workflows to ensure compliance and accountability."
+    ]
+  },
+  {
+    "slug": "sales-forecasting-pipeline-management",
+    "label": "Risk & Issue Management",
+    "title": "Predict risks using AI",
+    "intro": "An AI-powered risk prediction engine helps teams classify, escalate, and track risks, and turns unresolved risks into actionable issues.",
+    "icon": "CDN1:688fc0ee4b947555d40bd005_customer-stats.png",
+    "home_image": "CDN2:68b06ff7021a80a741f859d8_Screenshot%202025-08-28%20174514.png",
+    "secondary_image": "CDN2:68b06ff7021a80a741f859d8_Screenshot%202025-08-28%20174514.png",
+    "workflow_image": "CDN2:68b06fd45e51cf001e01bb44_Screenshot%202025-08-28%20180336.png",
+    "bullets": [
+      "Our AI-powered risk prediction engine analyzes real-time data to forecast potential issues",
+      "Classify, escalate, and track risks using custom matrices and alerts",
+      "Automatically convert unresolved risks into issues for follow-up and resolution."
+    ],
+    "workflow_heading": "Stay ahead of issues",
+    "workflow_text": "The AI engine identifies and tracks risks in real time, so teams can act before an issue reaches the schedule.",
+    "points": [
+      ["Shared risk insight", "Share risk insights, action plans, and upcoming tasks with your team instantly."],
+      ["Everyone informed", "Everyone stays updated on risks, mitigation strategies, and next actions."]
+    ],
+    "helpful": [
+      "Collaborate with teams to identify, assess, and prioritize potential risks early in the project lifecycle.",
+      "Continuously monitor projects and portfolios to detect trends, bottlenecks, or emerging issues.",
+      "Maintain structured risk registers and custom matrices for consistent evaluation and tracking.",
+      "Implement proactive mitigation strategies and follow-up actions to minimize impact and ensure smooth project delivery."
+    ]
+  }
+]
